@@ -1,20 +1,18 @@
-# kyc-case-management-dashboard
-Project Title
+# KYC Case Management Dashboard
 
-KYC Case Management Dashboard
-
-Objective
+## Objective
 
 Monitor KYC onboarding and periodic review cases, track escalations, document completeness, and analyst performance.
 
-Features
+## Features
 Case Pipeline Tracking
 Risk Classification
 Escalation Monitoring
 Document Completeness Tracking
 Analyst Performance Monitoring
 KPI Reporting
-Tools Used
+
+## Tools Used
 Microsoft Excel
 Data Analysis
 Dashboard Design
