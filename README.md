@@ -44,8 +44,8 @@ supports effective case management, risk assessment, and operational reporting.
 
 ### Case Pipeline
 
-<img width="700" alt="Case Pipeline" src="<img width="722" height="293" alt="image" src="https://github.com/user-attachments/assets/80c1999b-c184-4af1-b4f8-b3a81e1c6f1b" />
-" />
+<img width="722" height="293" alt="image" src="https://github.com/user-attachments/assets/80c1999b-c184-4af1-b4f8-b3a81e1c6f1b" />
+
 
 ### KPI Summary
 
