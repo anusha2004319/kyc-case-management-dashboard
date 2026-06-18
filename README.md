@@ -1,4 +1,4 @@
-<img width="722" height="296" alt="image" src="https://github.com/user-attachments/assets/5dd6372d-c631-4cac-93fd-8a7141a9dc79" /># KYC Case Management Dashboard
+# KYC Case Management Dashboard
 ## Project Overview
 Developed a KYC Case Management Dashboard to track customer onboarding and periodic review cases,
 monitor escalations, manage document completeness, and analyze analyst productivity.
