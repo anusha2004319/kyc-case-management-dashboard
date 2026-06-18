@@ -41,8 +41,14 @@ monitor escalations, manage document completeness, and analyze analyst productiv
 Built an end-to-end KYC operations dashboard that simulates real-world compliance workflows and
 supports effective case management, risk assessment, and operational reporting.
 ## Dashboard Preview
+
 ### Case Pipeline
-<img width="632" height="260" alt="image" src="https://github.com/user-attachments/assets/cb0b3469-9b7a-41a3-a569-de6b7e27c1b9" />
+
+<img width="700" alt="Case Pipeline" src="<img width="722" height="293" alt="image" src="https://github.com/user-attachments/assets/80c1999b-c184-4af1-b4f8-b3a81e1c6f1b" />
+" />
+
 ### KPI Summary
-![Uploading image.png…]()
+
+<img width="700" alt="KPI Summary" src="<img width="632" height="272" alt="image" src="https://github.com/user-attachments/assets/0a9b625e-1d30-447b-8da8-f08fb159894a" />
+" />
 
