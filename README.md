@@ -42,7 +42,7 @@ Built an end-to-end KYC operations dashboard that simulates real-world complianc
 supports effective case management, risk assessment, and operational reporting.
 ## Dashboard Preview
 ### Case Pipeline
-![Case Pipeline]<img width="632" height="260" alt="image" src="https://github.com/user-attachments/assets/cb0b3469-9b7a-41a3-a569-de6b7e27c1b9" />
+<img width="632" height="260" alt="image" src="https://github.com/user-attachments/assets/cb0b3469-9b7a-41a3-a569-de6b7e27c1b9" />
 ### KPI Summary
-![KPI Summary]![Uploading image.png…]()
+![Uploading image.png…]()
 
