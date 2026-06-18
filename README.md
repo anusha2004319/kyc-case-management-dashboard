@@ -49,6 +49,6 @@ supports effective case management, risk assessment, and operational reporting.
 
 ### KPI Summary
 
-<img width="700" alt="KPI Summary" src="<img width="632" height="272" alt="image" src="https://github.com/user-attachments/assets/0a9b625e-1d30-447b-8da8-f08fb159894a" />
-" />
+<img width="632" height="272" alt="image" src="https://github.com/user-attachments/assets/0a9b625e-1d30-447b-8da8-f08fb159894a" />
+
 
